@@ -1,4 +1,3 @@
-### Congrats - you write code! 👋
 
 ![](https://media.giphy.com/media/iHyVaHfEYXZos8qPX2/giphy.gif)
 
