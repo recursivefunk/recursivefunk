@@ -1,4 +1,6 @@
-### Oh shit! Dis gon' b gud 👋
+### Congrats - you write code! 👋
+
+![](https://media.giphy.com/media/iHyVaHfEYXZos8qPX2/giphy.gif)
 
 <!--
 **recursivefunk/recursivefunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
