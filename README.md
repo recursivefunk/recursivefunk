@@ -1,5 +1,5 @@
 
-![](https://media.giphy.com/media/iHyVaHfEYXZos8qPX2/giphy.gif)
+![Control panel](http://1.bp.blogspot.com/-_G777JJtwUs/TyHaeYfCcDI/AAAAAAAAApo/vjZeRGwQLQw/s1600/black-guy-gif-star-trek.gif)
 
 <!--
 **recursivefunk/recursivefunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
