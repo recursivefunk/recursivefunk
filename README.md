@@ -1,6 +1,6 @@
 ## It's me, Johnny
 
-![Control panel](http://1.bp.blogspot.com/-_G777JJtwUs/TyHaeYfCcDI/AAAAAAAAApo/vjZeRGwQLQw/s1600/black-guy-gif-star-trek.gif)
+![oprah-i-was-right](https://user-images.githubusercontent.com/479726/141194104-0b54a629-2484-4678-9081-4c85fd305123.jpeg)
 
 <!--
 **recursivefunk/recursivefunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
